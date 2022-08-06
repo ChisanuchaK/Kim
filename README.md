@@ -1,4 +1,4 @@
-### <h1 align="center">Kimmie<img src="https://scontent.fbkk17-1.fna.fbcdn.net/v/t39.30808-6/271425563_4406208286155579_5680570248644253669_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEmogxalWsVdSkG5R-b3rHF5SIbJW1K8vLlIhslbUry8oAuUVLKOKhtyx-sa7LFsRV_gKV0KslaCq83ioFgTxwG&_nc_ohc=beI9O0O-TAkAX_K8wFT&_nc_ht=scontent.fbkk17-1.fna&oh=00_AT90mykxFV2wMv8wKkeDA0ql6fUfkAfmeZtyg7ghtG9tqQ&oe=62F28CBF" width="30px"></h1>
+### <h1 align="center">Kimmie<img src="https://scontent.fbkk17-1.fna.fbcdn.net/v/t39.30808-6/271425563_4406208286155579_5680570248644253669_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEmogxalWsVdSkG5R-b3rHF5SIbJW1K8vLlIhslbUry8oAuUVLKOKhtyx-sa7LFsRV_gKV0KslaCq83ioFgTxwG&_nc_ohc=beI9O0O-TAkAX_K8wFT&_nc_ht=scontent.fbkk17-1.fna&oh=00_AT90mykxFV2wMv8wKkeDA0ql6fUfkAfmeZtyg7ghtG9tqQ&oe=62F28CBF" width="300px"></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChisanuchaK&show_icons=true&theme=tokyonight)
 
